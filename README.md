@@ -103,6 +103,7 @@ Digunakan untuk menyimpan data tidak terstruktur:
 
 Aplikasi ini mengusung arsitektur **Hybrid Database System** dengan IIS sebagai host utama:
 
+<img width="1536" height="1024" alt="arsitektur" src="https://github.com/user-attachments/assets/2a27ef71-1e8c-43f6-9626-60de2ded1f01" />
 
 
 
