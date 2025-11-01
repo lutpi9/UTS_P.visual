@@ -124,6 +124,8 @@ Beberapa halaman utama dari mockup proyek ini:
 > “Every cake from Lupybakery is not just a sweet treat — but a manifestation of love, sincerity, and happiness.”
 
 ---
+## Sign in
+<img width="1364" height="810" alt="image" src="https://github.com/user-attachments/assets/40ffe09d-9736-44b2-b2e8-47fc0121e57d" />
 
 ## 🚀 Cara Menjalankan Aplikasi
 
