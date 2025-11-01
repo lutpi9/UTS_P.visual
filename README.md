@@ -151,3 +151,10 @@ Beberapa halaman utama dari mockup proyek ini:
 5. Import database awal ke SQL Server.  
 6. Jalankan aplikasi melalui browser: http://localhost:8090/app#/ 
 
+## 🧩 Kesimpulan
+
+Proyek **Lupybakery Management System** ini merupakan implementasi nyata dari integrasi antara **IIS Web Server**, **SQL Server**, dan **MongoDB** dalam satu sistem aplikasi web.  
+Dengan rancangan arsitektur hybrid dan fitur-fitur manajemen data yang lengkap, sistem ini diharapkan mampu:
+- Mempermudah pengelolaan data pengguna dan hak akses.  
+- Menunjukkan pemahaman mendalam tentang pemrograman visual.  
+- Menjadi contoh proyek UTS yang profesional dan representatif.
