@@ -127,6 +127,21 @@ Beberapa halaman utama dari mockup proyek ini:
 ## Sign in
 <img width="1364" height="810" alt="image" src="https://github.com/user-attachments/assets/40ffe09d-9736-44b2-b2e8-47fc0121e57d" />
 
+## Dashboard
+<img width="1366" height="753" alt="image" src="https://github.com/user-attachments/assets/be62dd7e-f5ca-4506-bb82-f78b993a9b74" />
+
+## Role Manager
+<img width="1367" height="803" alt="image" src="https://github.com/user-attachments/assets/1d25e8da-ce45-425d-ad6d-27f21feff8dd" />
+
+## User Management
+<img width="1367" height="730" alt="image" src="https://github.com/user-attachments/assets/92e802a8-dea3-4ec1-960c-4073fc511b5b" />
+
+## Menu Management
+<img width="1369" height="656" alt="image" src="https://github.com/user-attachments/assets/97d56960-a6fa-4eb5-aa77-c172cbc8796e" />
+
+## Menu Management (Create)
+<img width="1370" height="657" alt="image" src="https://github.com/user-attachments/assets/8a94dc29-8c0b-4b4e-a0f8-97a6c6511bf9" />
+
 ## 🚀 Cara Menjalankan Aplikasi
 
 1. Pastikan **IIS (Internet Information Services)** sudah aktif di komputer kamu.  
