@@ -7,6 +7,7 @@
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Pemrograman Visual (Desktop) |
 | **Proyek** | Ujian Tengah Semester (UTS) |
+| **Link YouTube** | https://youtu.be/tH1y1WczxAQ?si=4kp828I11iQ7Ol9g |
 
 # 🧁 Lupybakery Management System
 
